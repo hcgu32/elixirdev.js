@@ -1,0 +1,17 @@
+{
+  "name": "elixirdev.js",
+  "version": "0.0.1",
+  "description": "Kolay bir Discord bot oluşturma kütüphanesi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["discord"],
+  "author": "hcgu32",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "colors": "^1.4.0",
+    "discord.js": "^14.14.1"
+  }
+}
